@@ -1,7 +1,7 @@
 # kmeans
 
 # Overview of Project
-• Given a collection of dataset
+• Given a collection of dataset <br />
 • Our group implemented some algorithm to analyze the dataset
 • Compare and contrast with another existing algorithm
 
