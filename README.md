@@ -16,20 +16,20 @@ Basically we used the same algorithm as what is mentioned inside Lloyd’s algor
 • K-means provides the most accurate findings <br />
 • K-means enumerate all possible combinations of clusters<br />
 • Disadvantage<br />
-  • K-means only limited to numerical value<br />
+  ○ K-means only limited to numerical value<br />
 • Our data only have 4898 instances with 12 Attributes<br />
 • and all attributes are in numerical value (decimals)<br />
 • It is efficient to use K-means to cluster<br />
 
 # Input
 • Data Points<br />
-  • winequality-white.csv<br />
+  ○ winequality-white.csv<br />
 • K number of clusters<br />
-  • K = 4<br />
+  ○ K = 4<br />
 • Proximity Measure<br />
-  • Euclidean Distance<br />
+  ○ Euclidean Distance<br />
 • Clustering Criterion function<br />
-  • Sum of Square Error<br />
+  ○ Sum of Square Error<br />
   
 # Algorithm
 • Randomly select data points as centroids<br />
