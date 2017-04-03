@@ -1,9 +1,9 @@
 # kmeans
 
 # Overview of Project
-> Given a collection of dataset
-> Our group implemented some algorithm to analyze the dataset
-> Compare and contrast with another existing algorithm
+• Given a collection of dataset
+• Our group implemented some algorithm to analyze the dataset
+• Compare and contrast with another existing algorithm
 
 # Lloyd’s k-means algorithm
 Lloyd’s algorithm is based on simple observation that the optimal placement of a center is at the centroid of the associated cluster. Each stage of Lloyd’s algorithm moves every center point z to the  centroid v(z) and then updates  v(z) by recomputing the distance from each point to its nearest center. This step is repeated until the best condition is met.
